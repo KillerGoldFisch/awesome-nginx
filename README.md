@@ -295,7 +295,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [build-nginx](https://github.com/jaygooby/build-nginx) - An nginx build tool to really simplify downloading and building specific versions of nginx with different core and 3rd-party modules.
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
 * [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
-* [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) - Open-source Web Application Firewall and reverse proxy based on NGINX.
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 * [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
 * [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
